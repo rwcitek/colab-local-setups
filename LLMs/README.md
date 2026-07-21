@@ -9,3 +9,6 @@
 
 ## Nascent - doesn't work, yet.
 - [VS Code]( https://colab.research.google.com/github/rwcitek/colab-local-setups/blob/dev/LLMs/nascent.colab_tmux_vscode.ipynb )
+
+## Utilities
+- [Template notebook]( https://colab.research.google.com/github/rwcitek/colab-local-setups/blob/dev/LLMs/colab_tmux_template.ipynb )

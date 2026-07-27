@@ -8,6 +8,7 @@
 
 
 ## Nascent - doesn't work, yet.
+- [Open Code with Ollama]( https://colab.research.google.com/github/rwcitek/colab-local-setups/blob/dev/LLMs/ollama_opencode_claude.ipynb )
 - [VS Code]( https://colab.research.google.com/github/rwcitek/colab-local-setups/blob/dev/LLMs/nascent.colab_tmux_vscode.ipynb )
 - [llamma.cpp]( https://colab.research.google.com/github/rwcitek/colab-local-setups/blob/dev/LLMs/colab_tmux_llamacpp.ipynb )
 
